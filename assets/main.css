@@ -24,7 +24,7 @@ body{
 }
 .main-container{
     border: 2px solid;
-    width: 400px;
+    width: 350px;
     height: 610px;
     margin: 20px;
     margin-left: 30px;
@@ -35,10 +35,10 @@ body{
     
 }
 .image > img{
-    width: 345px;
+    width: 300px;
     border-radius: 15px;
     margin: 10px;
-    margin-left: 25px;
+    margin-left: 23px;
     margin-top: 20px;
 }
 h1{
@@ -47,13 +47,14 @@ h1{
    margin: 8px;
    color: var(--Slate900);
    font-weight:var(--fw-1);
+   font-size: 30px;
    
 }
 #part1{
-    margin: 20px;
+    margin: px;
 }
 #part2{
-    margin: 10px;
+    margin: px;
 }
 p{
     font-size: var(fs-p);
@@ -63,9 +64,9 @@ p{
     color: var(--Slate500);
     font-weight: var(--fw-2);
 }
-@media (min-width:720px){
+@media screen and (min-width:720px) {
     body{
-        
+        display: flex;
         align-items: center;
         justify-content: center;
     }
