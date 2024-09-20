@@ -65,7 +65,7 @@ p{
 }
 @media (min-width:720px){
     body{
-        display: flex;
+        
         align-items: center;
         justify-content: center;
     }
