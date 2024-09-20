@@ -25,7 +25,7 @@ body{
 .main-container{
     border: 2px solid;
     width: 350px;
-    height: 610px;
+    height: 550px;
     margin: 20px;
     margin-left: 30px;
     margin-top: 120px;
@@ -36,10 +36,10 @@ body{
 }
 .image > img{
     width: 300px;
-    border-radius: 15px;
+    border-radius: 20px;
     margin: 10px;
     margin-left: 23px;
-    margin-top: 20px;
+    margin-top: 25px;
 }
 h1{
    font-family:"Outfit";
